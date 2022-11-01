@@ -1,0 +1,113 @@
+ ======================================================
+ Program started at :28 Mar 2022   4:47:58.359 PM  
+ Clen =   2.500000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   1.600000000000000E-004
+ CVel =    15.6250000000000     
+ tau  =   0.576800000000000     
+ uMax_ =   9.600000000000000E-002
+ Re_SI =    100.000000000000     
+ Re_LBM =   100.0000000000000     
+snap  1 recorded at LBM time %d         0
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+test2d2.x          000000000040FAEB  Unknown               Unknown  Unknown
+test2d2.x          00000000004B3A10  Unknown               Unknown  Unknown
+test2d2.x          0000000000403442  Unknown               Unknown  Unknown
+test2d2.x          0000000000401F32  Unknown               Unknown  Unknown
+test2d2.x          00000000004A5EF0  Unknown               Unknown  Unknown
+test2d2.x          0000000000401DFE  Unknown               Unknown  Unknown
+ ======================================================
+ Program started at :28 Mar 2022   5:30:58.354 PM  
+ Clen =   2.500000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   1.600000000000000E-004
+ CVel =    15.6250000000000     
+ tau  =   0.576800000000000     
+ uMax_ =   9.600000000000000E-002
+ Re_SI =    100.000000000000     
+ Re_LBM =   100.0000000000000     
+snap  1 recorded at LBM time %d         0
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+test2d2.x          000000000040F9AB  Unknown               Unknown  Unknown
+test2d2.x          00000000004B38D0  Unknown               Unknown  Unknown
+test2d2.x          00000000004041BD  Unknown               Unknown  Unknown
+test2d2.x          0000000000401F32  Unknown               Unknown  Unknown
+test2d2.x          00000000004A5DB0  Unknown               Unknown  Unknown
+test2d2.x          0000000000401DFE  Unknown               Unknown  Unknown
+ ======================================================
+ Program started at :28 Mar 2022   5:39:37.206 PM  
+ Clen =   5.000000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   2.500000000000000E-004
+ CVel =    20.0000000000000     
+ tau  =   0.530000000000000     
+ uMax_ =   7.500000000000001E-002
+ Re_SI =    100.000000000000     
+ Re_LBM =    100.000000000000     
+snap  1 recorded at LBM time %d         0
+snap  2 recorded at LBM time %d    250000
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+test2d2.x          000000000040FB8B  Unknown               Unknown  Unknown
+test2d2.x          00000000004B3A90  Unknown               Unknown  Unknown
+test2d2.x          0000000000404635  Unknown               Unknown  Unknown
+test2d2.x          0000000000401F32  Unknown               Unknown  Unknown
+test2d2.x          00000000004A5F70  Unknown               Unknown  Unknown
+test2d2.x          0000000000401DFE  Unknown               Unknown  Unknown
+ ======================================================
+ Program started at :28 Mar 2022   5:56:00.909 PM  
+ Clen =   5.000000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   2.500000000000000E-004
+ CVel =    20.0000000000000     
+ tau  =   0.530000000000000     
+ uMax_ =   7.500000000000001E-002
+ Re_SI =    100.000000000000     
+ Re_LBM =    100.000000000000     
+snap  1 recorded at LBM time %d         0
+snap  2 recorded at LBM time %d    125000
+snap  3 recorded at LBM time %d    250000
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+test2d2.x          000000000040FACB  Unknown               Unknown  Unknown
+test2d2.x          00000000004B39D0  Unknown               Unknown  Unknown
+test2d2.x          0000000000404FEF  Unknown               Unknown  Unknown
+test2d2.x          0000000000401F32  Unknown               Unknown  Unknown
+test2d2.x          00000000004A5EB0  Unknown               Unknown  Unknown
+test2d2.x          0000000000401DFE  Unknown               Unknown  Unknown
+ ======================================================
+ Program started at :28 Mar 2022   6:05:44.866 PM  
+ Clen =   5.000000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   2.500000000000000E-004
+ CVel =    20.0000000000000     
+ tau  =   0.530000000000000     
+ uMax_ =   7.500000000000001E-002
+ Re_SI =    100.000000000000     
+ Re_LBM =    100.000000000000     
+snap  1 recorded at LBM time %d         0
+snap  2 recorded at LBM time %d    125000
+snap  3 recorded at LBM time %d    250000
+snap  4 recorded at LBM time %d    375000
+snap  5 recorded at LBM time %d    500000
+ Program ended at :28 Mar 2022   6:20:14.943 PM  
+ ======================================================
+ ======================================================
+ Program started at :12 May 2022   2:05:42.308 AM  
+ Clen =   5.000000000000000E-003
+ Crho =    1000.00000000000     
+ Ct   =   1.250000000000000E-003
+ CVel =    4.00000000000000     
+ tau  =   0.650000000000000     
+ uMax_ =   7.500000000000001E-002
+ Re_SI =    20.0000000000000     
+ Re_LBM =    20.0000000000000     
+snap  1 recorded at LBM time %d         0
+snap  2 recorded at LBM time %d     25000
+snap  3 recorded at LBM time %d     50000
+snap  4 recorded at LBM time %d     75000
+snap  5 recorded at LBM time %d    100000
+ Program ended at :12 May 2022   2:08:54.850 AM  
+ ======================================================

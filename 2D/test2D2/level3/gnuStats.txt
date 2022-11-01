@@ -1,0 +1,2 @@
+Min/Max Lift: -1.092 1.057
+Min/Max Drag: 3.224 3.324
